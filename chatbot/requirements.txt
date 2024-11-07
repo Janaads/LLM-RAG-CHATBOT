@@ -1,0 +1,13 @@
+streamlit
+pandas
+faiss-cpu
+numpy
+python-pptx
+PyPDF2
+python-docx
+sentence-transformers
+langchain
+langchain_community
+langchain_huggingface
+langchain_core
+langchain_groq
